@@ -38,3 +38,4 @@ while var = 1
 
     print "Sending",(s.sendto(packet,(dstip,0))),"bytes..."
 # firewall
+# firewall
